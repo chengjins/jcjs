@@ -2,7 +2,10 @@ import '@/css/tailwind.css'
 import '@/css/prism.css'
 import 'katex/dist/katex.css'
 
-import '@fontsource/inter/variable-full.css'
+// import '@fontsource/inter/variable.css'
+import '@fontsource/karla/variable.css'
+// import '@fontsource/rubik/variable.css'
+// import '@fontsource/overpass-mono'
 
 import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
